@@ -1,6 +1,8 @@
 '''O objetivo da classe é verificar se a entrada (o tabuleiro)
     contém a solução para o problema das 8 rainhas'''
 class Matriz:
+    '''Classe tabuleiro'''
+
     def __init__(self, matriz):
         self.tabuleiro = matriz
 

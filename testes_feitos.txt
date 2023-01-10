@@ -1,0 +1,9 @@
+Primeiro teste é o "teste_entrada" que verifica se a entrada é válida, analisando se a soma das peças
+é diferente de 8 e se existe alguma peça diferente de "0" ou "1"
+
+O segundo teste é o "teste_validar" que vai verificar se a soma das colunas, linhas e diagonais. Caso o resultado
+da soma for diferente de 1, logo a sulução é inválida, ou seja, há duas rainhas ou mais na mesma linha, coluna ou 
+diagonal.
+
+Este teste foi executado de 4 formas diferentes. A primeira com uma solução para o problema, a segunda sem uma
+solução válida e as últimas com o tabuleiro incompleto e com números inválidos.

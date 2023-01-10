@@ -1,4 +1,4 @@
-from rainhas_oito import Matriz
+from oito_rainhas import Matriz
 '''teste 1 - verificar se a entrada é válida'''
 
 def teste_entrada():
